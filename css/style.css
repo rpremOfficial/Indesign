@@ -602,7 +602,7 @@ ul.email li i {
 }
 
 #ho_nf:hover .portfolio_text {
-     height: 240px;
+     height: 210px;
      transition: ease-in all 0.5s;
      padding: 40px 40px;
 }
@@ -648,17 +648,17 @@ ul.email li i {
 
 .portfolio_text h3 {
      color: #0c0c0d;
-     font-size: 24px;
-     line-height: 30px;
+     font-size: 20px;
+     line-height: 25px;
      font-weight: bold;
-     padding-bottom: 15px;
+     padding-bottom: 10px;
 }
 
 .portfolio_text p {
      color: #031330;
-     font-size: 17px;
-     line-height: 30px;
-     padding-bottom: 15px;
+     font-size: 12px;
+     line-height: 25px;
+     padding-bottom: 10px;
 }
 
 .portfolio .read_more {
